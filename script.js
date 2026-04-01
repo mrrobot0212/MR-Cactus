@@ -1,4 +1,4 @@
-<script>
+
 document.addEventListener('DOMContentLoaded', () => {
     // ১. ক্লক লজিক (Clock Logic)
     function updateClock() {
@@ -64,4 +64,3 @@ document.addEventListener('DOMContentLoaded', () => {
         window.open(`https://${url}`, '_blank');
     };
 });
-</script>
